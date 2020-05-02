@@ -1,0 +1,95 @@
+{
+  "register": [
+        "firstName",
+        "lastName",
+        "phone",
+        "userName",
+        "address1",
+        "address2",
+        "city",
+        "state",
+        "postalCode"
+      ],
+  "registerDetails":[
+        "raghu",
+        "gowda",
+        "1234567898",
+        "raghu.m@gmail.com",
+        "Rajajinagar",
+        "5th cross",
+        "Bengaluru",
+        "Karnataka",
+        "560079"
+  ],
+  "flight": [
+        "passCount",
+        "fromPort",
+        "fromMonth",
+        "fromDay",
+        "toPort",
+        "toMonth",
+        "toDay"
+    ],
+  "flightDetails": [
+        "2",
+        "London",
+        "June",
+        "10",
+        "New York",
+        "July",
+        "10"
+    ],
+  "passengers": [
+      "passFirst0",
+      "passLast0",
+      "creditnumber",
+      "cc_frst_name",
+      "cc_mid_name",
+      "cc_last_name"
+  ],
+  "passengersDetails": [
+      "raghu",
+      "gowda",
+      "12134465464",
+      "raghu",
+      "test",
+      "card"
+  ],
+  "creditCard": [
+      "pass.0.meal",
+      "creditCard",
+      "cc_exp_dt_mn",
+      "cc_exp_dt_yr"
+  ],
+  "creditCardDetails": [
+      "Hindu",
+      "Visa",
+      "04",
+      "2010"
+  ],
+  "address": [
+      "billAddress1",
+      "billAddress2",
+      "billCity",
+      "billState",
+      "billZip",
+      "delAddress1",
+      "delAddress2",
+      "delCity",
+      "delState",
+      "delZip"
+  ],
+  "selectAddress": [
+      "Rajajinagar",
+      "5th Cross",
+      "Bengaluru",
+      "Karnataka",
+      "560079",
+      "Rajajinagar",
+      "5th Cross",
+      "Bengaluru",
+      "Karnataka",
+      "560079"
+  ]
+
+}
