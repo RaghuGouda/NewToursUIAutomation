@@ -20,7 +20,7 @@
     "chromedriver": "^80.0.0",
     "cucumber": "^6.0.5",
     "jsonfile": "^6.0.0",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "protractor": "^5.4.3",
     "protractor-cucumber-framework": "^6.2.1",
     "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.1",
